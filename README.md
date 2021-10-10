@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 - :briefcase:  My previous experience strongly supports my current endeavours in software development. 
             I have worked in international Fintech start-up company, where I have learned how to adjust and react to rapidly changing environment. 
 
-##### Reach me
+#### Reach Me
 - [LinkedIn](http://linkedin.com/in/elīna-puļķe)
+
+#### My Lates Work
