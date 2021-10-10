@@ -23,4 +23,4 @@ Here are some ideas to get you started:
             I have worked in international Fintech start-up company, where I have learned how to adjust and react to rapidly changing environment. 
 
 ##### Reach me
-- [LinkedIn](www.linkedin.com/in/elīna-puļķe)
+- [LinkedIn](http://linkedin.com/in/elīna-puļķe)
