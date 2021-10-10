@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :art:  I am passionate Software Developer. My interest in programming started as a hobby, but it quickly grew to into a passion and desire to change my career into this path.
+- :art:  I am passionate Software Developer. My interest in programming started as a hobby, but it quickly grew into a passion and desire to change my career into this path.
 
 - :mortar_board:  I am fast learner who never stops on the things that are already achieved. My thrive for knowledge can be supported not only by my long list of      previous education, but also by my previous experience.
 
