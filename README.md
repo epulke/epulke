@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - [LinkedIn](http://linkedin.com/in/elīna-puļķe)
 
 #### My Lates Work
+- [Product Catalog] (https://github.com/epulke/productCatalog)
 - [To Do application](https://github.com/epulke/toDoApp)
 - [Weather Forecast App](https://github.com/epulke/weatherApi)
 - [Person Register](https://github.com/epulke/personRegister)
