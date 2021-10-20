@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 
 #### My Lates Work
 - [Product Catalog](https://github.com/epulke/productCatalog)
-- [Product Catalog] (https://github.com/epulke/toDoApp)
 - [To Do application](https://github.com/epulke/toDoApp)
 - [Weather Forecast App](https://github.com/epulke/weatherApi)
